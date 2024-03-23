@@ -19,8 +19,9 @@
     <description>Final Project for 401</description>
     
     <properties>
-        <java.version>16</java.version>
-    </properties>
+    <java.version>11</java.version>
+</properties>
+
     
     <dependencies>
         <dependency>
